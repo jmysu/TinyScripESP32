@@ -1,6 +1,6 @@
 # TinyScripESP32
 
-### JimmyCraft C3MikroBUS TinyScript V0
+### JimmyCraft C3MikroBUS TinyScript V0 (w/ QEspNow)
 <img src= "pic/TinyScript.png" >
 
 <br>
