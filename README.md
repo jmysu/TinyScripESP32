@@ -8,5 +8,5 @@ TinyScript port to C3mBUS
 ---
 ## References <br>
 [TinyScript]  TotalSpectrum TinyScript (https://github.com/totalspectrum/tinyscript)<br>
-[ArduinoScript] ESP32 TinyScript Arduino Porting (https://www.mikroe.com/mikrobus)<br>
+[ArduinoScript] TinyScript Arduino ESP32 Porting (https://github.com/EternityForest/arduinoscript)<br>
 
