@@ -2,7 +2,7 @@
 TinyScript port to C3mBUS
 
 # JimmyCraft C3MikroBUS TinyScript V0
-<img src= "pic/TinyScript.jpg" width=128>
+<img src= "pic/TinyScript.png" >
 
 
 ---
